@@ -1,6 +1,6 @@
 name: REPEATO CLI TESTING
 
-on: [push]
+on: [release]
 
 jobs:
   repeato-cli:
